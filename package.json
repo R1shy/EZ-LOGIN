@@ -1,0 +1,22 @@
+{
+  "name": "ez-login",
+  "version": "1.0.0",
+  "description": "an ez base for a site with a login screen",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R1shy/EZ-LOGIN.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "R1shy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R1shy/EZ-LOGIN/issues"
+  },
+  "homepage": "https://github.com/R1shy/EZ-LOGIN#readme"
+}
