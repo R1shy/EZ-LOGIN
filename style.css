@@ -4,9 +4,34 @@
   color: #000000;
 }
 
-.login {
-  position: relative;
-  text-align: center;
+.user {
+  display: block;
+  margin-top: 10px;
+  margin-left: 650px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  background-color: #000000;
+  border-radius: 45px;
+  color: #ff0000;
+  width: 200px;
+  height: 25px;
+}
+
+
+.pass {
+  display: block;
+  margin-top: 20px;
+  margin-left: 650px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 2px;
+  background-color: #000000;
+  border-radius: 45px;
+  color: #ff0000;
+  width: 200px;
+  height: 25px;
+
 }
 
 .btn {
@@ -14,6 +39,10 @@
   margin-top: 25px;
   margin-left: 725px;
   border-radius: 50px;
-  background-color: #c02a2a;
-  color: #FFFFFF;
+  background-color: #000000;
+  color: #f98585;
+}
+
+.body {
+  background-color: #302c2c;
 }
